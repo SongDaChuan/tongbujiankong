@@ -1,0 +1,4 @@
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\bin\Release\ReplicationMonitor.Infrastructure.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\bin\Release\ReplicationMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\obj\Release\ReplicationMonitor.Infrastructure.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\obj\Release\ReplicationMonitor.Infrastructure.pdb

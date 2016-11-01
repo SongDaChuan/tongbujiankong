@@ -1,0 +1,5 @@
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\bin\Debug\ReplicationMonitor.Infrastructure.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\bin\Debug\ReplicationMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\obj\Debug\ReplicationMonitor.Infrastructure.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\obj\Debug\ReplicationMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Infrastructure\obj\Debug\ReplicationMonitor.Infrastructure.csprojResolveAssemblyReference.cache

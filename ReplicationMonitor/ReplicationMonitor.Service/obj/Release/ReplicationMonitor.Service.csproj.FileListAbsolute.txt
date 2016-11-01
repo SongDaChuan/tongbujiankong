@@ -1,0 +1,9 @@
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\bin\Release\ReplicationMonitor.Service.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\bin\Release\ReplicationMonitor.Service.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\bin\Release\ReplicationMonitor.Infrastructure.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\bin\Release\SqlServerDataAdapter.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\bin\Release\AutoMapper.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\bin\Release\ReplicationMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\obj\Release\ReplicationMonitor.Service.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\obj\Release\ReplicationMonitor.Service.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Service\obj\Release\ReplicationMonitor.Service.pdb

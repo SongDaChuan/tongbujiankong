@@ -1,0 +1,13 @@
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Web.dll.config
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Web.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Web.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\EasyUIJsonParser.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Infrastructure.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Service.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\SqlServerDataAdapter.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\AutoMapper.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\bin\ReplicationMonitor.Service.pdb
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\obj\Release\ReplicationMonitor.Web.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\obj\Release\ReplicationMonitor.Web.dll
+E:\NXJC\项目文件\ReplicationMonitor\ReplicationMonitor\ReplicationMonitor.Web\obj\Release\ReplicationMonitor.Web.pdb
